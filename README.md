@@ -11,8 +11,8 @@ Software Engineer who loves building cool stuff with Java, Spring Boot, Python a
 - 🤖 Well-versed with AI/ML technologies like LLMs, RAG and LangChain
 
 ### 🎓 Background
-M.S. Computer Science
-B.E. Computer Engineering
+- M.S. Computer Science
+- B.E. Computer Engineering
 
 ## Let's Connect
  
