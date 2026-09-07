@@ -5,7 +5,7 @@ Software Engineer who loves building cool stuff with Java, Spring Boot and React
 ## About
  
 - 💼 3.5 years of experience as a software engineer
-- 🛠️ Core stack: **Java / Spring Boot** (backend), **Angular & React** (frontend)
+- 🛠️ Core stack: Java, Spring Boot, JavaScript, React, TypeScript, SQL
 - ⚙️ Extending into cloud infrastructure with Azure and AWS
 - 🐳 Comfortable with Docker, Kubernetes, CI/CD pipelines, and AI-assisted development tooling
 
