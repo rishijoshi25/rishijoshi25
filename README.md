@@ -4,11 +4,12 @@ Software Engineer who loves building cool stuff with Java, Spring Boot, Python a
 
 ## About
  
-- 💼 3.5 years of experience as a software engineer
+- 💼 4 years of experience as a software engineer
 - 🛠️ Core stack: Java, Spring Boot, Python, JavaScript, React, TypeScript, SQL
 - ☁️ Extending into cloud infrastructure with Azure and AWS
 - 🐳 Experienced with Docker, Kubernetes, CI/CD pipelines, Git, and AI-assisted development tooling
 - 🤖 Well-versed with AI/ML technologies like LLMs, RAG and LangChain
+- 🇺🇸 Located in Buffalo, New York
 
 ### 🎓 Background
 - M.S. Computer Science
